@@ -3,5 +3,5 @@ project(modern-cpp-spec)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(current 01_white/week03/main.cpp)
+add_executable(current 01_white/week05/main.cpp)
 # add_executable(prev week02/01.cpp)
